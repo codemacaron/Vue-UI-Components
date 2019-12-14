@@ -53,7 +53,6 @@ export default {
 .cover{
   position: relative;
   width: 500px;
-  margin: 0 auto;
   border-radius: 4px;
   background: lightcyan;
   h1.accordion-title{
